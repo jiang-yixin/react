@@ -14,6 +14,9 @@ Here is the list of some key words about each app.
 * Fragment
 * forwardRef
 * ReactDOM.createPortal (modal backdrop, overlap)
+* fetch to get meals from firebase
+* send orders to firebase
+* form input validation
 
 ## class-based-component-comparison
 
